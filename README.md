@@ -2,8 +2,8 @@
 
 #How to run this service in Java IDE?
 
-*Right click on Application.java and click Run.
-*Once the service is running, open browser and http://localhost:8092
-*Enter a number in USD field
+Right click on Application.java and click Run.
+Once the service is running, open browser and http://localhost:8092
+Enter a number in USD field
 
 Note that Indian Rupee field is unused, so can be removed or the code needs to be updated to print the result on the same page.
